@@ -1,0 +1,95 @@
+{
+  "title": "دسته‌بندی‌ها",
+  "categories": [
+    {
+      "id": 1,
+      "title": "موبایل",
+      "image": "/images/categories/mobile.webp"
+    },
+    {
+      "id": 2,
+      "title": "لپ تاپ",
+      "image": "/images/categories/laptop.webp"
+    },
+    {
+      "id": 3,
+      "title": "کالای دیجیتال",
+      "image": "/images/categories/digital.webp"
+    },
+    {
+      "id": 4,
+      "title": "خانه و آشپزخانه",
+      "image": "/images/categories/home.webp"
+    },
+    {
+      "id": 5,
+      "title": "لوازم خانگی برقی",
+      "image": "/images/categories/appliances.webp"
+    },
+    {
+      "id": 6,
+      "title": "آرایشی و بهداشتی",
+      "image": "/images/categories/beauty.webp"
+    },
+    {
+      "id": 7,
+      "title": "مد و پوشاک",
+      "image": "/images/categories/fashion.webp"
+    },
+    {
+      "id": 8,
+      "title": "طلا و نقره",
+      "image": "/images/categories/gold.webp"
+    },
+    {
+      "id": 9,
+      "title": "خودرو و موتورسیکلت",
+      "image": "/images/categories/car.webp"
+    },
+    {
+      "id": 10,
+      "title": "ابزار و تجهیزات",
+      "image": "/images/categories/tools.webp"
+    },
+    {
+      "id": 11,
+      "title": "تجهیزات پزشکی و سلامت",
+      "image": "/images/categories/medical.webp"
+    },
+    {
+      "id": 12,
+      "title": "کتاب، لوازم تحریر و هنر",
+      "image": "/images/categories/books.webp"
+    },
+    {
+      "id": 13,
+      "title": "ورزش و سفر",
+      "image": "/images/categories/sport.webp"
+    },
+    {
+      "id": 14,
+      "title": "کارت هدیه و گیفت کارت",
+      "image": "/images/categories/gift.webp"
+    },
+    {
+      "id": 15,
+      "title": "کالای خوراکی و اساسی",
+      "image": "/images/categories/grocery.webp"
+    },
+    {
+      "id": 16,
+      "title": "اسباب بازی، کودک و نوزاد",
+      "image": "/images/categories/toys.webp"
+    },
+    {
+      "id": 17,
+      "title": "محصولات بومی و محلی",
+      "image": "/images/categories/local.webp"
+    },
+    {
+      "id": 18,
+      "title": "پت شاپ",
+      "image": "/images/categories/pet.webp"
+    }
+  ]
+}

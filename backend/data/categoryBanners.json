@@ -1,0 +1,14 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "image": "/images/category-banners/banners1.webp",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "image": "/images/category-banners/banners2.webp",
+      "link": "#"
+    }
+  ]
+}
